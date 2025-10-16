@@ -1,0 +1,12 @@
+[package]
+name = "extractor_cookies"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27.2"
+egui = "0.27"
+chrono = "0.4.38"
+walkdir = "2.5.0"
+rusqlite = { version = "0.31.0", features = ["bundled"] }
+rfd = "0.14.1"
