@@ -16,7 +16,6 @@ The project is designed for log analysis, extracting relevant data, and organizi
 1. Ensure you have Rust installed (version 1.80+ recommended).
 2. Clone the repository:
    ```
-   git clone https://github.com/yourusername/extractor-cookies.git
    cd extractor-cookies
    ```
 3. Build and run:
@@ -78,7 +77,6 @@ Extractor Cookies — это приложение на Rust для извлеч�
 1. Убедитесь, что у вас установлен Rust (рекомендуется версия 1.80+).
 2. Клонируйте репозиторий:
    ```
-   git clone https://github.com/yourusername/extractor-cookies.git
    cd extractor-cookies
    ```
 3. Соберите и запустите:
@@ -121,10 +119,4 @@ Extractor Cookies — это приложение на Rust для извлеч�
 4. Отправьте: `git push origin feature/новая-функция`.
 5. Создайте Pull Request.
 
-### Лицензия
-
-Этот проект лицензирован под MIT License. Подробности в файле LICENSE.
-
 ---
-
-If you have additional details (e.g., screenshots or specific features), let me know, and I'll update the README!
